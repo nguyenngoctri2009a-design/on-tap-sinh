@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Lê Hoàng Long",
+    "correctCount": 49,
+    "score": 9.8,
+    "streak": 22,
+    "updatedAt": "10 phút trước"
+  },
+  {
+    "id": 2,
+    "name": "Nguyễn Minh Châu",
+    "correctCount": 48,
+    "score": 9.6,
+    "streak": 19,
+    "updatedAt": "30 phút trước"
+  },
+  {
+    "id": 3,
+    "name": "Phạm Quốc Huy",
+    "correctCount": 46,
+    "score": 9.2,
+    "streak": 15,
+    "updatedAt": "Hôm nay"
+  },
+  {
+    "id": 4,
+    "name": "Đặng Thùy Dung",
+    "correctCount": 44,
+    "score": 8.8,
+    "streak": 12,
+    "updatedAt": "Hôm nay"
+  },
+  {
+    "id": 5,
+    "name": "Trần Văn Nam",
+    "correctCount": 42,
+    "score": 8.4,
+    "streak": 10,
+    "updatedAt": "Hôm qua"
+  },
+  {
+    "id": 6,
+    "name": "Vũ Đức Thịnh",
+    "correctCount": 39,
+    "score": 7.8,
+    "streak": 8,
+    "updatedAt": "Hôm qua"
+  },
+  {
+    "id": 7,
+    "name": "Hoàng Kim Yến",
+    "correctCount": 36,
+    "score": 7.2,
+    "streak": 6,
+    "updatedAt": "Hôm qua"
+  }
+]
